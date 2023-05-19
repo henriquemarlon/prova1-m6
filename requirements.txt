@@ -44,6 +44,7 @@ logging-demo==0.20.3
 map-msgs==2.1.0
 message-filters==4.3.3
 nav-msgs==4.2.3
+numpy==1.24.3
 osrf-pycommon==2.0.2
 pcl-msgs==1.0.0
 pendulum-msgs==0.20.3
